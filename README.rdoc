@@ -1,2 +1,2 @@
 == README
-これはレイルズガールズで作ったものです。
+RailsGirls TOKYO
